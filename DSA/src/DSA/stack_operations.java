@@ -1,9 +1,6 @@
 package DSA;
 
 public class stack_operations {
-
-
-	
 	int[] stack;
 	int top;
 	//Creation
@@ -68,5 +65,6 @@ public class stack_operations {
 	 st.delete();
 	}
 	}
+
 
 

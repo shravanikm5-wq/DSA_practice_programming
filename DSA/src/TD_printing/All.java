@@ -160,14 +160,6 @@ public class All {
 			
 		}
 		
-
-
-		
-
-	
-		
-		
-		
 		//----------------------------
 		for (int r = 0; r < a.length; r++) {
 			for (int c = 0; c < a[r].length; c++) {
